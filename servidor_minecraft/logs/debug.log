@@ -2963,3 +2963,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 19:56:43.547] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Start filter for minecraft:entity_type
 [09Jun2025 19:56:43.547] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] 	Negate: false, Tag      : #waila:extra/item_blacklist
 [09Jun2025 19:56:43.547] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 483778546
+[09Jun2025 19:57:49.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 19:57:49.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 19:58:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Acquire Hardware]
+[09Jun2025 19:58:55.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20501ms or 410 ticks behind
+[09Jun2025 19:58:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Isn't It Iron Pick]
+[09Jun2025 19:58:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Suit Up]
+[09Jun2025 20:03:09.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 20:03:09.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 20:04:29.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-392, y=176, z=352} BlockPos{x=-559, y=168, z=510}
+[09Jun2025 20:04:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Monster Hunter]
+[09Jun2025 20:05:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Stone Age]
+[09Jun2025 20:06:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Sweet Dreams]
+[09Jun2025 20:08:09.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 20:08:09.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 20:13:09.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 20:13:09.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 20:18:09.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 20:18:09.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

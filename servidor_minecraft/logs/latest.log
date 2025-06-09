@@ -158,3 +158,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 19:55:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
 [09Jun2025 19:55:32.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set the time to 1000]
 [09Jun2025 19:55:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set own game mode to Survival Mode]
+[09Jun2025 19:58:35.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Acquire Hardware]
+[09Jun2025 19:58:55.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20501ms or 410 ticks behind
+[09Jun2025 19:58:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Isn't It Iron Pick]
+[09Jun2025 19:58:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Suit Up]
+[09Jun2025 20:04:29.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-392, y=176, z=352} BlockPos{x=-559, y=168, z=510}
+[09Jun2025 20:04:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Monster Hunter]
+[09Jun2025 20:05:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Stone Age]
+[09Jun2025 20:06:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Sweet Dreams]
