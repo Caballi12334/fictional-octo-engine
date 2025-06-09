@@ -171,3 +171,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 20:27:34.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50647] logged in with entity id 8865 at (-1919.5781785853853, 64.0, 960.8378538008741)
 [09Jun2025 20:27:34.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
 [09Jun2025 20:28:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set the time to 1000]
+[09Jun2025 20:30:34.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[09Jun2025 20:30:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 20:30:34.436] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 20:30:46.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50713] logged in with entity id 9869 at (-1971.571066693969, 76.0, 1042.3968864611634)
+[09Jun2025 20:30:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[09Jun2025 20:31:31.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Timed out
+[09Jun2025 20:31:31.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 20:31:55.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50724] logged in with entity id 10235 at (-1971.571066693969, 76.0, 1042.3968864611634)
+[09Jun2025 20:31:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[09Jun2025 20:33:55.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Timed out
+[09Jun2025 20:33:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 20:34:08.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50740] logged in with entity id 10874 at (-1940.2221876247995, 76.0, 1036.7639171859742)
+[09Jun2025 20:34:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[09Jun2025 20:34:53.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Timed out
+[09Jun2025 20:34:53.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 20:36:40.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50804] logged in with entity id 11278 at (-1955.3380785206368, 76.0, 1036.7926955090254)
+[09Jun2025 20:36:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[09Jun2025 20:39:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set the time to 1000]
