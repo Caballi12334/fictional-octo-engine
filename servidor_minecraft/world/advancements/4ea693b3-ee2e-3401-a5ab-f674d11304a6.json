@@ -14,9 +14,13 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-06-09 20:02:57 +0000",
+      "biomeswevegone:atacama_outback": "2025-06-09 22:01:21 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-09 17:58:54 +0000",
+      "biomeswevegone:windswept_desert": "2025-06-09 22:02:57 +0000",
+      "biomeswevegone:rugged_badlands": "2025-06-09 22:04:14 +0000",
       "biomeswevegone:sakura_grove": "2025-06-09 20:08:42 +0000",
       "biomeswevegone:temperate_grove": "2025-06-09 20:09:42 +0000",
+      "biomeswevegone:white_mangrove_marshes": "2025-06-09 22:01:27 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-06-09 17:59:59 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-09 20:17:52 +0000",
       "biomeswevegone:orchard": "2025-06-09 20:10:28 +0000",
@@ -42,10 +46,12 @@
       "minecraft:savanna_plateau": "2025-06-09 20:14:03 +0000",
       "minecraft:stony_peaks": "2025-06-09 20:05:47 +0000",
       "minecraft:mangrove_swamp": "2025-06-09 21:55:21 +0000",
+      "minecraft:sparse_jungle": "2025-06-09 21:57:10 +0000",
       "minecraft:river": "2025-06-09 20:20:04 +0000",
       "minecraft:grove": "2025-06-09 20:08:13 +0000",
       "minecraft:jagged_peaks": "2025-06-09 20:12:47 +0000",
       "minecraft:forest": "2025-06-09 20:03:23 +0000",
+      "minecraft:desert": "2025-06-09 21:57:28 +0000",
       "minecraft:jungle": "2025-06-09 20:04:48 +0000",
       "minecraft:meadow": "2025-06-09 20:12:57 +0000",
       "minecraft:savanna": "2025-06-09 20:17:50 +0000",
@@ -2270,6 +2276,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-06-09 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_quicksand": "2025-06-09 22:04:41 +0000"
     },
     "done": true
   },
