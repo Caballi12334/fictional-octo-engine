@@ -166,3 +166,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 20:04:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Monster Hunter]
 [09Jun2025 20:05:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Stone Age]
 [09Jun2025 20:06:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Sweet Dreams]
+[09Jun2025 20:22:21.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[09Jun2025 20:22:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 20:27:34.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50647] logged in with entity id 8865 at (-1919.5781785853853, 64.0, 960.8378538008741)
+[09Jun2025 20:27:34.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[09Jun2025 20:28:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set the time to 1000]
