@@ -2858,3 +2858,48 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jun2025 22:20:56.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jun2025 22:25:56.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 22:25:56.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:30:56.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 22:30:56.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:35:56.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 22:35:56.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:40:56.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 22:40:56.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:45:56.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 22:45:56.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:49:44.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 5.492186801502612,0.0,8.831524307948712
+[09Jun2025 22:49:44.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 5.703424755406559,0.0,9.171198319792893
+[09Jun2025 22:49:44.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 5.914662709310505,0.0,9.510872331637074
+[09Jun2025 22:49:44.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 6.125900663214452,0.0,9.850546343481255
+[09Jun2025 22:49:44.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 6.3371386171183985,0.0,10.190220355325437
+[09Jun2025 22:49:44.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 6.548376571022345,0.0,10.529894367169618
+[09Jun2025 22:49:44.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 6.759614524926292,0.0,10.8695683790138
+[09Jun2025 22:49:44.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 6.970852478830238,0.0,11.20924239085798
+[09Jun2025 22:49:44.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 7.182090432734185,0.0,11.548916402702162
+[09Jun2025 22:49:44.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 7.393328386638132,0.0,11.888590414546343
+[09Jun2025 22:49:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 7.604566340542078,0.0,12.228264426390524
+[09Jun2025 22:49:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 7.815804294446025,0.0,12.567938438234705
+[09Jun2025 22:49:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 8.027042248349971,0.0,12.907612450078886
+[09Jun2025 22:49:44.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 8.238280202253918,0.0,13.247286461923068
+[09Jun2025 22:49:44.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 8.449518156157865,0.0,13.586960473767249
+[09Jun2025 22:49:44.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 8.660756110061811,0.0,13.92663448561143
+[09Jun2025 22:49:44.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of M4ST3RPR0) moved too quickly! 8.871994063965758,0.0,14.266308497455611
+[09Jun2025 22:50:02.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[09Jun2025 22:50:02.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[09Jun2025 22:50:13.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jun2025 22:50:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jun2025 22:50:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jun2025 22:50:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jun2025 22:50:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jun2025 22:50:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jun2025 22:50:16.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 22:50:16.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 22:50:16.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jun2025 22:50:16.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jun2025 22:50:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jun2025 22:50:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jun2025 22:50:17.246] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jun2025 22:50:17.247] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/fictional-octo-engine/servidor_minecraft/config/refurbished_furniture.server.toml
+[09Jun2025 22:50:17.247] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[09Jun2025 22:50:17.256] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[09Jun2025 22:50:17.257] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[09Jun2025 22:50:17.257] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
