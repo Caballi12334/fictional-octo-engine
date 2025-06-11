@@ -231,3 +231,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 13:55:16.452] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [11Jun2025 13:55:16.539] [Server thread/INFO] [naturescompass/]: Search succeeded: 1041 radius, 277 samples
 [11Jun2025 13:57:48.622] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:pillager_outpost/mountain/towers
+[11Jun2025 14:09:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 was slain by Zombie
