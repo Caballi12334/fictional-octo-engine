@@ -242,3 +242,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 15:02:08.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5463, y=186, z=8505} BlockPos{x=-5464, y=186, z=8505}
 [11Jun2025 15:02:08.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5463, y=186, z=8505} BlockPos{x=-5464, y=186, z=8505}
 [11Jun2025 15:02:08.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5463, y=186, z=8505} BlockPos{x=-5464, y=186, z=8505}
+[11Jun2025 15:17:53.431] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[11Jun2025 15:17:53.559] [Server thread/INFO] [naturescompass/]: Search succeeded: 898 radius, 393 samples
