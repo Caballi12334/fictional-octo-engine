@@ -86,6 +86,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-09 22:35:56 +0000",
       "minecraft:frozen_peaks": "2025-06-11 14:14:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-11 13:56:33 +0000",
+      "minecraft:deep_dark": "2025-06-11 18:29:04 +0000",
       "minecraft:meadow": "2025-06-09 20:12:57 +0000",
       "minecraft:savanna": "2025-06-09 20:17:50 +0000",
       "minecraft:plains": "2025-06-09 20:17:13 +0000"
@@ -2070,6 +2071,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-09 20:04:30 +0000",
       "minecraft:spider": "2025-06-11 14:08:51 +0000",
+      "minecraft:creeper": "2025-06-11 18:27:24 +0000",
       "minecraft:zombie": "2025-06-09 22:16:02 +0000"
     },
     "done": false
@@ -3067,6 +3069,18 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-11 18:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-11 18:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-11 18:32:42 +0000"
     },
     "done": true
   },
