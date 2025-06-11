@@ -581,6 +581,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-11 18:44:08 +0000",
       "bread": "2025-06-09 19:58:16 +0000"
     },
     "done": false
@@ -3051,6 +3052,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-11 18:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-11 18:39:11 +0000"
     },
     "done": true
   },
