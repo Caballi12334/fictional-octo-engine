@@ -234,3 +234,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 17:59:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
 [11Jun2025 18:11:38.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4108, l='ServerLevel[world]', x=-5625.51, y=158.00, z=8782.62] died, message: 'Nitwit froze to death'
 [11Jun2025 18:48:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has reached the goal [Hunted]
+[11Jun2025 18:59:54.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[11Jun2025 18:59:54.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[11Jun2025 19:00:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jun2025 19:00:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jun2025 19:00:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jun2025 19:00:09.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jun2025 19:00:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jun2025 19:00:09.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jun2025 19:00:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jun2025 19:00:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jun2025 19:00:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jun2025 19:00:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jun2025 19:00:09.923] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Jun2025 19:00:09.924] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11Jun2025 19:00:09.926] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11Jun2025 19:00:09.928] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
