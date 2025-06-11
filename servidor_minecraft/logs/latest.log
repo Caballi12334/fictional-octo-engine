@@ -230,3 +230,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 17:53:26.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [11Jun2025 17:54:11.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
 [11Jun2025 17:54:11.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[11Jun2025 17:59:15.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:61176] logged in with entity id 393 at (-5543.520301038002, 81.0, 9058.985310021391)
+[11Jun2025 17:59:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
