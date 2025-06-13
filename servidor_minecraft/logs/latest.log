@@ -231,3 +231,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 03:36:21.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
 [13Jun2025 03:36:25.057] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/264, l='ServerLevel[world]', x=-5331.43, y=163.08, z=8688.09]
 [13Jun2025 03:36:25.057] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/265, l='ServerLevel[world]', x=-5336.80, y=161.00, z=8688.00]
+[13Jun2025 03:49:18.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[13Jun2025 03:49:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[13Jun2025 03:49:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jun2025 03:49:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jun2025 03:49:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jun2025 03:49:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jun2025 03:49:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jun2025 03:49:31.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jun2025 03:49:31.580] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jun2025 03:49:31.581] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Jun2025 03:49:31.583] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Jun2025 03:49:31.585] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

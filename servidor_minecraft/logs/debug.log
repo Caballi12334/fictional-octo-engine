@@ -3236,3 +3236,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 03:36:53.414] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 710690494
 [13Jun2025 03:40:07.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jun2025 03:40:07.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:45:06.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:45:06.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:49:18.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[13Jun2025 03:49:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[13Jun2025 03:49:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jun2025 03:49:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jun2025 03:49:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jun2025 03:49:30.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jun2025 03:49:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jun2025 03:49:31.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jun2025 03:49:31.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jun2025 03:49:31.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jun2025 03:49:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jun2025 03:49:31.580] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jun2025 03:49:31.581] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/fictional-octo-engine/servidor_minecraft/config/refurbished_furniture.server.toml
+[13Jun2025 03:49:31.581] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Jun2025 03:49:31.583] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Jun2025 03:49:31.583] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[13Jun2025 03:49:31.583] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Jun2025 03:49:31.585] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
