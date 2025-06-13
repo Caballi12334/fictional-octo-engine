@@ -227,3 +227,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jun2025 00:57:36.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/10.147.17.152:50201] logged in with entity id 136 at (-5459.957523608005, 184.0, 8506.894516023216)
 [13Jun2025 00:57:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
 [13Jun2025 00:57:39.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[13Jun2025 01:15:31.676] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[13Jun2025 01:15:31.827] [Server thread/INFO] [naturescompass/]: Search succeeded: 898 radius, 393 samples
